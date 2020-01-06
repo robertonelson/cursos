@@ -13,3 +13,5 @@ frutas = {
 print(frutas)
 
 print(frutas['minimo'])
+
+# Realizando una prueba de git commit
