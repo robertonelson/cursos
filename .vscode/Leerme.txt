@@ -1,1 +1,3 @@
 La idea es de practicar un poco de git
+
+Ahora voy a probar con git pull origin master
